@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.LinkedList;
 
 /**
- * Created by sunny on 5/3/19.
+ * Created by swati on 5/3/19.
  */
 
 public class IterativeInOrder {

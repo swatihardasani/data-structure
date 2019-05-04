@@ -1,5 +1,5 @@
 /**
- * Created by sunny on 4/18/19.
+ * Created by swati on 4/18/19.
  */
 class Node1{
     int val;

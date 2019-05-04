@@ -1,5 +1,5 @@
 /**
- * Created by sunny on 4/9/19.
+ * Created by swati on 4/9/19.
  */
 public class BinaryTree {
 

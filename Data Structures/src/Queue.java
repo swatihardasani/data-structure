@@ -1,7 +1,7 @@
 import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 
 /**
- * Created by sunny on 10/23/18.
+ * Created by swati on 10/23/18.
  */
 public class Queue {
     int queue[] = new int[5];

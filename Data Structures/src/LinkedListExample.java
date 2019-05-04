@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
 /**
- * Created by sunny on 6/14/18.
+ * Created by swati on 6/14/18.
  */
 public class LinkedListExample {
     public static void main(String args[]){

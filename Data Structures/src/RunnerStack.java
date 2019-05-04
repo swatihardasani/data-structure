@@ -1,5 +1,5 @@
 /**
- * Created by sunny on 10/17/18.
+ * Created by swati on 10/17/18.
  */
 public class RunnerStack {
     public static void main(String args[]){
